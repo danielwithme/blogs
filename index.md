@@ -1,4 +1,4 @@
 ---
-title: Daniel With Me
+title: Welcome to my blog
 ---
 
